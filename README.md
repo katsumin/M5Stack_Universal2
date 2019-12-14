@@ -1,1 +1,12 @@
 # M5Stack_Universal2
+- M5Stack用ユニバーサル基板２に含まれるフレームとメクラ板の３Ｄモデルです。
+- ファイル
+  - M5Stack_Universal_14mm_long_header.stl
+    - 14mmフレーム
+  - M5Stack_Universal_6p8mm_long_header.stl
+    - 6.5mmフレーム
+  - M5Stack_Universal_14mm_long_header_mekura.stl
+    - メクラ板
+  - M5Stack_Universal2.gcode
+    - 上記STLファイルのスライス済みgcodeファイル
+    - QIDI TECH製X-pro用なので、同プリンタをお持ちでしたら、そのまま使用できます。
